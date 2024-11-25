@@ -30,4 +30,4 @@ Atualmente, estou focado em:
 
 ## 🏆 Conquistas
 
-- **Graduado em Ciência da Computação** pelo **Cesar School**.
+- **Em processo de graduacao em Ciência da Computação** pelo **Cesar School**.
