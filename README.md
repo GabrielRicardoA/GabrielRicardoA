@@ -1,7 +1,7 @@
 # Olá, eu sou Gabriel Ricardo 👋
 ## Meu username é GabrielRicardoA
 
-![Minha foto de perfil](file:///C:/Users/gabri/Downloads/163e1852-d5e7-4b41-9f2f-d247cfdd94b4.jpg)
+
 
 ## Sobre mim
 
