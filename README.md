@@ -21,7 +21,7 @@ Atualmente, estou focado em:
 
 - 📧 **E-mail**: [gabrielaraujori@gmail.com](mailto:gabrielaraujori@gmail.com)
 - 💼 **LinkedIn**: [Gabriel Araújo](https://www.linkedin.com/in/gabriel-araújo-80164b2b8/)
-- 🌐 **Portfólio**: [Meu Portfólio](https://seu-portfolio.com) _(ainda não foi criado, insira o link correto quando disponível)_
+- 🌐 **Portfólio**: [Meu Portfólio](https://github.com/GabrielRicardoA/Meu-portifolio) 
 
 ## 🧑‍💻 Minhas Tecnologias
 
